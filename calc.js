@@ -30,4 +30,4 @@ function calculate({a,b,operation}) {
     }
 
     return result;
-}
+};
